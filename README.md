@@ -1,7 +1,9 @@
 # Lab2web2
-<br>
-
-<h2>HASIL</h2>
+**Nama : Ahmad shofwan anshory**
+**Nim : 312110555**
+**Kelas : TI.21.A3**
+<hr>
+<h1>HASIL</h1>
 <img src="/tugasnya/input.jpg">
 <hr>
 <br>
@@ -11,5 +13,5 @@
 <img src="/tugasnya/semua.jpg">
 <hr>
 <br>
-<h2>PENJELASAN</h2>
+<h1>PENJELASAN</h1>
 <P></P>
