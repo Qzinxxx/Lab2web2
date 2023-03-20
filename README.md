@@ -16,4 +16,4 @@
 <hr>
 <br>
 <h1>PENJELASAN</h1>
-<P></P>
+<P>Halaman web yang terdiri dari form input dan program php untuk memproses data yang diisi oleh seseorang di form input, ada tiga elemen input dan satu elemen select, method "post" dan action kosong, jadi data yang diisi oleh seseorang akan dikirim kehalaman yang sama. ketika tombol submit diklik, program php akan dieksekusi. Setelah itu program php akan menampilkan hasil pemrosesan data yang dimasukan oleh seseorang. Jika belum diklik maka tidak ada tampilan yang akan ditampilkan pada halaman web</P>
