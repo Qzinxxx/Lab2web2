@@ -2,13 +2,13 @@
 <br>
 
 <h2>HASIL</h2>
-<img src="/tugasnya/input.jpg>
+<img src="/tugasnya/input.jpg">
 <hr>
 <br>
-<img src="/tugasnya/output.jpg>
+<img src="/tugasnya/output.jpg">
 <hr>
 <br>
-<img src="/tugasnya/semua.jpg>
+<img src="/tugasnya/semua.jpg">
 <hr>
 <br>
 <h2>PENJELASAN</h2>
