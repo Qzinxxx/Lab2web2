@@ -1,4 +1,4 @@
-# Lab2web2
+# Praktikum
 **Nama : Ahmad shofwan anshory**
 <br>
 **Nim : 312110555**
